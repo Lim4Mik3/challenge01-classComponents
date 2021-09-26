@@ -1,28 +1,28 @@
 {
   "foods": [
     {
+      "id": 1,
+      "name": "Ao molho",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
+      "price": "19.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
       "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "name": "Macarrão super gostoso",
+      "description": "Melhor macarrão já criado pelo chef Leonardo.",
       "price": "21.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
       "id": 3,
-      "name": "Arroz e feijão",
+      "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "30",
-      "available": true,
+      "price": "25.90",
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "image": "",
-      "name": "asdasd",
-      "price": "asdsad",
-      "description": "asdsadsa",
-      "available": true,
-      "id": 4
     }
   ]
 }
